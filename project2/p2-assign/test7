@@ -1,0 +1,21 @@
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1150
+free 2150 2300
+free 3000 3299
+malloc A 1000 1149
+malloc B 2150 2299
+malloc C 3301 3600
+write 1000 10
+save A 1000
+use
+free 1000 1001
+free 1100 1101
+free 1200 1201
+free 1300 1300
+free 2050 2051
+free 2149 2151
+free 2250 2251
+free 3300 3600
+use

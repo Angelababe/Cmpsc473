@@ -1,0 +1,9 @@
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1150
+free 2150 2300
+free 3000 3299
+malloc A 1000 1149
+malloc B 2150 2299
+malloc C 3301 3600

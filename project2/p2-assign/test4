@@ -1,0 +1,402 @@
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1150
+free 2150 2300
+free 3000 3299
+malloc A 1000 1149
+malloc B 2150 2299
+malloc C 3301 3600
+free 1000 1001
+free 1100 1101
+free 1200 1201
+free 1300 1300
+free 2050 2051
+free 2149 2151
+free 2250 2251
+free 3300 3600
+malloc A 1301 1400
+malloc B 2301 2400
+free 1002 1099
+free 1102 1199
+free 1202 1299
+free 1301 1400
+free 2000 2049
+free 2052 2149
+free 2152 2249
+free 2252 2400
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1150
+free 2150 2300
+free 3000 3299
+malloc A 1000 1149
+malloc B 2150 2299
+malloc C 3301 3600
+free 1000 1001
+free 1100 1101
+free 1200 1201
+free 1300 1300
+free 2050 2051
+free 2149 2151
+free 2250 2251
+free 3300 3600
+malloc A 1301 1400
+malloc B 2301 2400
+free 1002 1099
+free 1102 1199
+free 1202 1299
+free 1301 1400
+free 2000 2049
+free 2052 2149
+free 2152 2249
+free 2252 2400
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
+malloc A 1000 1300
+malloc B 2000 2300
+malloc C 3000 3300
+free 1000 1300
+free 2000 2300
+free 3000 3300
